@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yaron Koren"
+		]
+	},
+	"editorlinks": "Editor links",
+	"editorlinks-desc": "Adds a [[Special:Editorlinks|special page]] that holds helpful links for administrators",
+	"editorlinks_documentation": "$1 documentation",
+	"editorlinks_general": "General",
+	"editorlinks_editsidebar": "Edit sidebar",
+	"editorlinks_editcss": "Edit CSS file",
+	"editorlinks_editmainpagename": "Edit name of main page",
+	"editorlinks_users": "Users",
+	"editorlinks_createuser": "Create a user",
+	"editorlinks_browsesearch": "Browse and search",
+	"editorlinks_importexport": "Import and export",
+	"editorlinks_pagenotfound": "Failed to find special page with name: $1.",
+	"right-editorlinks": "See the link to [[Special:Editorlinks|Editor links]]"
+}

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ebraminio",
+			"Huji",
+			"Sahim",
+			"ZxxZxxZ",
+			"Hamisun"
+		]
+	},
+	"editorlinks": "پیوندهای مدیران",
+	"editorlinks-desc": "[[Special:Editorlinks|صفحه‌ای ویژه]] دارای پیوندهایی مفید برای مدیران اضافه می‌کند",
+	"editorlinks_documentation": "مستندات $1",
+	"editorlinks_general": "عمومی",
+	"editorlinks_editsidebar": "نوار ویرایش",
+	"editorlinks_editcss": "ویرایش پروندهٔ سی‌اس‌اس",
+	"editorlinks_editmainpagename": "ویرایش نام از طریق صفحهٔ اصلی",
+	"editorlinks_users": "کاربران",
+	"editorlinks_createuser": "ایجاد یک حساب",
+	"editorlinks_browsesearch": "مرور و جستجو",
+	"editorlinks_importexport": "درون‌ریزی و برون‌بری",
+	"adminlinks_pagenotfound": "تلاش برای یافتن صفحه با این نام ناموفق بود: $1.",
+	"right-editorlinks": "پیوند به [[Special:Editorlinks|پیوندهای مدیران]] را ببینید"
+}
